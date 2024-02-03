@@ -2,8 +2,12 @@
 
 ###
 
+<!-- 
+![itsme](https://github.com/pratesMath/pratesMath/assets/158685154/367580f3-fe19-41ca-bab0-bc0b4899bf1d)
+-->
+
 <div align="center">
-  <img src="./itsme.gif" alt="" width="700">
+  <img src="https://github.com/pratesMath/pratesMath/assets/158685154/367580f3-fe19-41ca-bab0-bc0b4899bf1d" alt="" width="700">
   <p><i>A Brazilian passionate for fullstack development</i></p>
 </div>
 
