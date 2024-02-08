@@ -11,15 +11,14 @@
   <p><i>A Brazilian passionate for fullstack development</i></p>
 </div>
 
-<h3>
-  <ul>
-    <li>🌱 <b>I’m currently learning</b>: NodeJS, Oracle & Apex, Authentication and Authorization;</li>
-    <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://github.com/pratesMath">My Github</a>;</li>
-    <li>💬 <b>Ask me about</b>: "client server" architecture, NodeJS, Database, information security;</li>
-    <li>📫 <b>reach me on</b>: <a href="https://www.linkedin.com/in/dev-pratesmatheus/">My LinkedIn</a>;</li>
-    <li>⚡  <b>Fun fact</b>: I'm always learning and learning more;</li>
-  </ul>
-</h3>
+
+<ul>
+  <li>🌱 <b>I’m currently learning</b>: NodeJS, Oracle & Apex, Authentication and Authorization;</li>
+  <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://github.com/pratesMath">My Github</a>;</li>
+  <li>💬 <b>Ask me about</b>: "client server" architecture, NodeJS, Database, information security;</li>
+  <li>📫 <b>reach me on</b>: <a href="https://www.linkedin.com/in/dev-pratesmatheus/">My LinkedIn</a>;</li>
+  <li>⚡  <b>Fun fact</b>: I'm always learning and learning more;</li>
+</ul>
 
 <br><br>
 
