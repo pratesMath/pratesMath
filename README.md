@@ -33,5 +33,5 @@
 <br>
 <div align="center">
   <h2>Thanks 4 everyone!</h2>
-  <p>Made w/ ❤ by <a href="https://github.com/pratesMath">pratesMath</a>.</p>
+  <p>Made w/ 💙 by <a href="https://github.com/pratesMath">pratesMath</a>.</p>
 </div>
