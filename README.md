@@ -11,11 +11,10 @@
   <p><i>A Brazilian passionate for fullstack development</i></p>
 </div>
 
-
 <ul>
-  <li>🌱 <b>I’m currently learning</b>: NodeJS, Oracle & Apex, Authentication and Authorization;</li>
+  <li>🌱 <b>I’m currently learning</b>: NodeJS, Python, Go lang, AI Agents and MCP;</li>
   <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://github.com/pratesMath">My Github</a>;</li>
-  <li>💬 <b>Ask me about</b>: "client server" architecture, NodeJS, Database, information security;</li>
+  <li>💬 <b>Ask me about</b>: Clean Architecture, Performance, SQL, AI and Data Security;</li>
   <li>📫 <b>reach me on</b>: <a href="https://www.linkedin.com/in/dev-pratesmatheus/">My LinkedIn</a>;</li>
   <li>⚡  <b>Fun fact</b>: I'm always learning and learning more;</li>
 </ul>
@@ -31,6 +30,6 @@
 
 <br>
 <div align="center">
-  <h2>Thanks 4 everyone!</h2>
+  <h2>Thanks 2 everyone!</h2>
   <p>Made w/ 💙 by <a href="https://github.com/pratesMath">pratesMath</a>.</p>
 </div>
